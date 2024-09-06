@@ -17,7 +17,7 @@ repository with tasks for the M3113 group
 ## "Мне есть чем вас удивить..."
 
 ### 1 Задание 
-1. $A = \{1, 2, 3, 4, 5\}, B = \{1, 2, 3, 6, 7\}$\\
+1. $A = {1, 2, 3, 4, 5\}, B = \{1, 2, 3, 6, 7}$\\
 2. Найдите $A \cup B, A \cap B, A \oplus B, A \textbackslash B$
 3. $\mathbb{R} \textbackslash \mathbb{R}_{+}$
 4. $(\mathbb{Q} \cap \mathbb{Z}) \textbackslash \mathbb{N}$
@@ -25,6 +25,6 @@ repository with tasks for the M3113 group
 6. $Cl(\mathbb{R}) \textbackslash \mathbb{R}$$
 
 ### 2 Задание
-1. $A = \{(x, y) | x^2 + y^2 < 3\}$
+1. $A = {(x, y) | x^2 + y^2 < 3}$
 2. $B = Cl(A)$
 3.  $C = B \textbackslash A$
