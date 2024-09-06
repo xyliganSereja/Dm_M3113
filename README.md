@@ -15,3 +15,11 @@ repository with tasks for the M3113 group
 
 # 1 практика 07.09.2004
 ## "Мне есть чем вас удивить..."
+
+$\begin{enumerate}
+    \item $A = \{1, 2, 3, 4, 5\}, B = \{1, 2, 3, 6, 7\}$\\
+    Найдите $A \cup B, A \cap B, A \oplus B, A \textbackslash B$
+    \item $\mathbb{R} \textbackslash \mathbb{R}_{+}$
+    \item $(\mathbb{Q} \cap \mathbb{Z}) \textbackslash \mathbb{N}$
+    \item $\overline{\mathbb{R}}$
+    \item $Cl(\mathbb{R}) \textbackslash \mathbb{R}$$
