@@ -25,6 +25,6 @@ repository with tasks for the M3113 group
 6. $Cl(\mathbb{R}) \textbackslash \mathbb{R}$$
 
 ### 2 Задание
-1. $A = ${$(x, y) | x^2 + y^2 < 3$}
+1. $A = {(x, y) | x^2 + y^2 < 3}$
 2. $B = Cl(A)$
 3.  $C = B \textbackslash A$
