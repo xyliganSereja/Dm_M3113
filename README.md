@@ -22,7 +22,7 @@ repository with tasks for the M3113 group
 2. $\mathbb{R} \textbackslash \mathbb{R}_{+}$
 3. $(\mathbb{Q} \cap \mathbb{Z}) \textbackslash \mathbb{N}$
 4. $\overline{\mathbb{R}}$
-5. $Cl(\mathbb{R}) \textbackslash \mathbb{R}$$
+5. $Cl(\mathbb{R}) \textbackslash \mathbb{R}$
 
 ### 2 Задание
 1. A = \{ $(x, y) | x^2 + y^2 < 3$ \}
